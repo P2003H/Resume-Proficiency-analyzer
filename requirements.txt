@@ -1,0 +1,7 @@
+numpy
+pandas
+streamlit
+streamlit_option_menu
+streamlit_extras
+PyPDF2
+
